@@ -12,7 +12,7 @@ iOS의 대표적인 GUI 개발 환경으로 `Storyboard`가 있으나,
 
 기술적인 차이 및 상호 보완에 대해 간략하게 작성했습니다.
 
-더 알아보기
+[더 알아보기](https://github.com/pyville/swift-tips/blob/master/SwiftUI.md, "SwiftUI")
 
 ### DispatchQueue
 
@@ -20,13 +20,13 @@ iOS의 대표적인 GUI 개발 환경으로 `Storyboard`가 있으나,
 
 `TableView`의 내용을 업데이트하는 것을 중심으로 정리해 보았습니다.
 
-더 알아보기
+[더 알아보기](https://github.com/pyville/swift-tips/blob/master/DispatchQueue.md, "DispatchQueue")
 
 ### UIBlurEffect
 
 `UIView`의 `UIVisualEffect`를 상속하여 블러 효과를 적용해 줍니다.
 
-더 알아보기 
+[더 알아보기](https://github.com/pyville/swift-tips/blob/master/BlurEffect.md, "BlurEffect")
 
 ### Codable과 JSON 데이터
 
@@ -36,7 +36,7 @@ iOS의 대표적인 GUI 개발 환경으로 `Storyboard`가 있으나,
 
 이를 통해 `JSON` 데이터를 내보내고 가져오는 과정에 대해 알아봅니다.
 
-더 알아보기
+[더 알아보기](https://github.com/pyville/swift-tips/blob/master/Codable.md, "Codable")
 
 ### Firebase
 
@@ -46,7 +46,7 @@ iOS의 대표적인 GUI 개발 환경으로 `Storyboard`가 있으나,
 
 `Firebase`를 사용하며 거친 시행착오에 대해 적어 보았습니다.
 
-더 알아보기
+[더 알아보기](https://github.com/pyville/swift-tips/blob/master/Firebase.md, "Firebase")
 
 ### Skeleton View
 
