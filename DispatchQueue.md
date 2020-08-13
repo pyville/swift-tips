@@ -11,4 +11,4 @@
 `DispatchQueue`를 다시 사용하게 된 건 `Firebase`를 쓰게 되면서 발생한 작업 순서 문제였습니다. `Firebase`가 URL을 적절한 시기에 내놓아야 URL로 `JSON`이나 동영상을 가져오는데, 이 순서가 엉키게 되면 URL이 nil값을 가지게 되는 대참사가 발생합니다. 그러나 이 작업에 `DispatchQueue`를 사용하기에는 현실적인 어려움이 있었습니다. URL 가져오는 작업의 어디부터 어디까지를 비동기 작업의 영역으로 설정해야 하는지도 막막했고, `DispatchQueue`의 가장 강력한 무기(?)인 `wait`을 사용한다면 앱 전체가 멈춰 버렸습니다. 이런저런 시행착오를 거치다 전후 작업을 별개의 함수로 쪼개고, 이전 작업에서 URL이 `nil`값이 아닐 때에만 URL을 매개변수로 받는 이후 작업이 실행되도록 만들었습니다. 더 세련된 해결 방법이 있을지도 모르겠지만, 이 방법은 작업 순서를 확립하는 데에는 꽤 효과가 좋았습니다.
 
 ## References
-[Swift. GCD 기초 정리하기](https://devmjun.github.io/archive/2-GCD, "Swift GCD")
+[Swift. GCD 기초 정리하기](https://devmjun.github.io/archive/2-GCD "Swift GCD")
