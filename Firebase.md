@@ -12,7 +12,7 @@ Firebase는 구글에서 제공하는 앱 내부 데이터 관리 서비스입�
 
 ## CocoaPods
 
-[CocoaPods 공식 설명(영문)](https://guides.cocoapods.org/using/getting-started.html#getting-started, "cocoapods")
+[CocoaPods 공식 설명(영문)](https://guides.cocoapods.org/using/getting-started.html#getting-started "cocoapods")
 
 저를 비롯한 iOS 초보 개발자들은 CocoaPods가 무엇인지, 왜 사용해야 하는지 다소 생소함을 느끼실 수도 있습니다.
 
@@ -42,14 +42,14 @@ Ultimately the goal is to improve discoverability of, and engagement in, third p
 
 구글 Firebase 공식 문서가 
 
-[iOS에서 시작하기](https://firebase.google.com/docs/storage/ios/start?hl=ko,"Firebase Tutorial")
+[iOS에서 시작하기](https://firebase.google.com/docs/storage/ios/start?hl=ko "Firebase Tutorial")
 
-[iOS 프로젝트에 Firebase 추가](https://firebase.google.com/docs/ios/setup?hl=ko,"Firebase Tutorial")
+[iOS 프로젝트에 Firebase 추가](https://firebase.google.com/docs/ios/setup?hl=ko "Firebase Tutorial")
 
-[iOS에서 Firebase 이미지 가져오기](https://www.youtube.com/watch?v=GX4mcOOUrWQ ,"YouTube")
+[iOS에서 Firebase 이미지 가져오기](https://www.youtube.com/watch?v=GX4mcOOUrWQ "YouTube")
 
-[iOS에서 Firebase 동영상 가져오기](https://www.youtube.com/watch?v=4ISMTG-E3Po,"YouTube")
+[iOS에서 Firebase 동영상 가져오기](https://www.youtube.com/watch?v=4ISMTG-E3Po "YouTube")
 
-[iOS에서 Firebase Storage 동영상 스트리밍하기](https://www.youtube.com/watch?v=zG7qgyA5Gb4,"YouTube")
+[iOS에서 Firebase Storage 동영상 스트리밍하기](https://www.youtube.com/watch?v=zG7qgyA5Gb4 "YouTube")
 
 
