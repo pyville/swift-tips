@@ -8,9 +8,9 @@
 
 ## Codable
 
-[Codable 공식 문서](https://developer.apple.com/documentation/swift/codable, "Documentation")
+[Codable 공식 문서](https://developer.apple.com/documentation/swift/codable "Documentation")
 
-[Codable 튜토리얼](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types, "Tutorial")
+[Codable 튜토리얼](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types "Tutorial")
 
 `typealias Codable = Decodable & Encodable`
 
@@ -49,13 +49,13 @@ JavaScript에서 처음 사용된 데이터 전송 양식입니다.
 }
 ```
 
-JSON 예제 출처: [나무위키](https://namu.wiki/w/JSON, "namuwiki")
+JSON 예제 출처: [나무위키](https://namu.wiki/w/JSON "namuwiki")
 
 
 ## References
 
-[How to use Codable to load and save custom data types](https://www.hackingwithswift.com/example-code/language/how-to-use-codable-to-load-and-save-custom-data-types, "Reference")
+[How to use Codable to load and save custom data types](https://www.hackingwithswift.com/example-code/language/how-to-use-codable-to-load-and-save-custom-data-types "Reference")
 
-[Parsing JSON Just Became Super Easy in Swift 4 with Decodable](https://www.youtube.com/watch?v=YY3bTxgxWss,"YouTube")
+[Parsing JSON Just Became Super Easy in Swift 4 with Decodable](https://www.youtube.com/watch?v=YY3bTxgxWss "YouTube")
 
-[Codable Hierarchies - Saving Data in iOS 11, Xcode 9, and Swift 4](https://www.youtube.com/watch?v=ZgILaLb0EcE,"YouTube")
+[Codable Hierarchies - Saving Data in iOS 11, Xcode 9, and Swift 4](https://www.youtube.com/watch?v=ZgILaLb0EcE "YouTube")
