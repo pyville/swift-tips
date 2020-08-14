@@ -29,7 +29,7 @@ The dependencies for your projects are specified in a single text file called a 
 
 CocoaPods will resolve dependencies between libraries, fetch the resulting source code, then link it together in an Xcode workspace to build your project.
 
-CocoaPods는 라이브러리 간 의존성을 해결하고, 결과값 소스 코드를 가져오며, 이를 같이 Xcode workspace에 연결시켜 프로젝트를 빌드합니다.
+CocoaPods는 라이브러리 간 의존성을 조정하고, 결과값 소스 코드를 가져오며, 이를 같이 Xcode workspace에 연결시켜 프로젝트를 빌드합니다.
 
 Ultimately the goal is to improve discoverability of, and engagement in, third party open-source libraries by creating a more centralised ecosystem.
 
