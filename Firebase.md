@@ -33,14 +33,14 @@ CocoaPods는 라이브러리 간 의존성을 해결하고, 결과값 소스 코
 
 Ultimately the goal is to improve discoverability of, and engagement in, third party open-source libraries by creating a more centralised ecosystem.
 
-최종적인 목적은 더 중심적인 개발 환경을 구축함으로써 서드파티 오픈소스 라이브러리를 활성화하고 참여를 유도하는 것입니다.
+최종적인 목적은 더 중앙통제적인 개발 환경을 구축함으로써 서드파티 오픈소스 라이브러리를 활성화하고 참여를 유도하는 것입니다.
 ```
 
 ## iOS에서 Firebase 시작하기
 
 제가 구현하고자 했던 기능을 중심으로 정리해 놓았습니다.
 
-구글 Firebase 공식 문서가 
+구글 Firebase 공식 문서 및 YouTube에 올려져 있는 자료들이며, CocoaPods를 정상적으로 설치했다면 쉽게 따라할 수 있습니다.
 
 [iOS에서 시작하기](https://firebase.google.com/docs/storage/ios/start?hl=ko "Firebase Tutorial")
 
