@@ -46,10 +46,10 @@ Ultimately the goal is to improve discoverability of, and engagement in, third p
 
 [iOS 프로젝트에 Firebase 추가](https://firebase.google.com/docs/ios/setup?hl=ko "Firebase Tutorial")
 
-[iOS에서 Firebase 이미지 가져오기](https://www.youtube.com/watch?v=GX4mcOOUrWQ "YouTube")
+[iOS에서 Firebase 이미지 가져오기 (영문)](https://www.youtube.com/watch?v=GX4mcOOUrWQ "YouTube")
 
-[iOS에서 Firebase 동영상 가져오기](https://www.youtube.com/watch?v=4ISMTG-E3Po "YouTube")
+[iOS에서 Firebase 동영상 가져오기 (영문)](https://www.youtube.com/watch?v=4ISMTG-E3Po "YouTube")
 
-[iOS에서 Firebase Storage 동영상 스트리밍하기](https://www.youtube.com/watch?v=zG7qgyA5Gb4 "YouTube")
+[iOS에서 Firebase Storage 동영상 스트리밍하기 (영문)](https://www.youtube.com/watch?v=zG7qgyA5Gb4 "YouTube")
 
 
